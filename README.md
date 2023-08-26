@@ -108,7 +108,7 @@
       <div class="carousel-inner">
         <div class="item active">
           <a class="item" href="go:wel">
-            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKlVJmyxDn_FrzAEYNC7XIJlpsuk8xhlD7sP8K82lULGPBWiPQD4xUK__YuAfxwALXNqHIUAqkOQ5uik8zgW51D9OKpfCEfkCjxXRo5QqAuVaOtEW7jWN9D3jOfeQCaNyAJ2hhrp087EmPjSoUsEemkZFKRYs5KXHelTAv9KZfj3i2rPmlbJxKCKkzdwYA/s16000/WELCOME%20TO%20THE%20ANSARI%20TV.gif">
+            <img src="https://i.ibb.co/jhGXxd4/20230824-084427.jpg">
             <div class="carousel-caption cap">
               <h3></h3>
             </div>
@@ -123,26 +123,7 @@
             </div>
           </a>
         </div>
-		  <!---
-        <div class="item">
-          <a class="item" href="go:geo">
-            <img src="https://i.postimg.cc/KYpMSHWr/khuda-aur-mohabbat-Geo2.png">
-            <div class="carousel-caption cap">
-              <h3></h3>
-            </div>
-          </a>
-        </div>
-<!--->
-		  <!---
-        <div class="item">
-          <a class="item" href="go:PSL">
-            <img src="https://i.postimg.cc/fRyQjKX4/IMG-20210620-104153.jpg">
-            <div class="carousel-caption cap">
-              <h3></h3>
-            </div>
-          </a>
-        </div>
---->
+        
       </div>
       <a class="left carousel-control" href="#HeadCarousel" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left"></span>
@@ -151,10 +132,12 @@
         <span class="glyphicon glyphicon-chevron-right"></span>
       </a>
     </div>
+    
     <div class="nta">
       <h4>FEATURED</h4>
     </div>
     <div class="scrollmenu">
+      
       <a href="go:cri">
         <div class="cen">
           <img class="nt" src="https://i.postimg.cc/nzv9HBZM/20210918-002634-copy.png">
@@ -166,13 +149,12 @@
                 <img class="nt" src="https://i.postimg.cc/zBmRZps9/20210918-002838-copy.png">
                 <h5 class="centered"></h5>
               </div>
-            </a>
-    </div>
-    </div>
+            
+    
 	   <div class="nta">
       <a href="go:Turkishd">
-        <h4 class="alignleft">LIVE TV</h4>
-        <h4 class="alignright">See All</h4>
+        <h4 class="Centre">LIVE TV</h4>
+      
       </a>
     </div>
     <div class="scrollmenu">
@@ -191,9 +173,9 @@
             <a href="go:YE">
               <div class="cen">
                 <img class="nt" src="https://i.postimg.cc/q7KxqrBh/ok-1.png">
-              </div>
+             </div>
+              <a id="play" href="https://amigofx.com:1936/gsgrameena/gsgrameena/playlist.m3u8" autoplay="autoplay" width="100%" controls="fullscren" id="myvideo ">
+              <div class="cen">
+                <img class="nt" src="https://i.postimg.cc/q7KxqrBh/ok-1.png">
+              </div> 
              
-    </div>
-<br>
-  </body>
-			  </html>
