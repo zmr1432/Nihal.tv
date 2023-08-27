@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title> TV </title>
@@ -124,6 +123,15 @@
           </a>
         </div>
         
+        <div class="item ">
+          <a class="item" href="go:jftv">
+            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvKEH9NEV098d6CMYwoUpoee8W0x4lt9pDLcvJoRd25fa9vUXXdMesX3LBIHy4E_nRNv9cc3rO3tbtsjBMQRv2kyqj_fz1F9gyByZJs8YEPC582s8-BUVoXv2Cuhd0-mIPEjzap5cbKp6_ws_dC2fLGm4fvLDjnYphhE7eKYmpISJQc7VeDdhO70rlqD5S/s16000/LIVE%20(1).gif">
+            <div class="carousel-caption cap">
+              <h3></h3>
+            </div>
+          </a>
+        </div>
+        
       </div>
       <a class="left carousel-control" href="#HeadCarousel" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left"></span>
@@ -134,13 +142,13 @@
     </div>
     
     <div class="nta">
-      <h4>FEATURED</h4>
+      <h4>Telugu Local Chanel</h4>
     </div>
     <div class="scrollmenu">
       
-      <a href="go:cri">
+      <a href="https://zmr1432n.github.io/Demo2/">
         <div class="cen">
-          <img class="nt" src="https://i.postimg.cc/nzv9HBZM/20210918-002634-copy.png">
+          <img class="nt" src="https://i.ibb.co/YPm3rKw/NCN-Prime.jpg">
           <h5 class="centered"></h5>
         </div>
       
@@ -176,6 +184,6 @@
              </div>
               <a id="play" href="https://amigofx.com:1936/gsgrameena/gsgrameena/playlist.m3u8" autoplay="autoplay" width="100%" controls="fullscren" id="myvideo ">
               <div class="cen">
-                <img class="nt" src="https://i.postimg.cc/q7KxqrBh/ok-1.png">
+                <img class="nt" src="https://ibb.co/2WxybLH">
               </div> 
              
