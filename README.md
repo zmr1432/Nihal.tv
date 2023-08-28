@@ -81,9 +81,9 @@
       }
 
       .nt {
-        width: 105px;
+        width: 90px;
         border-radius: 5px;
-        height: 120px;
+        height: 100px;
         z-index: 1;
       }
 
@@ -155,46 +155,46 @@
       <h4 class="alignright">See All</h4>
     </div>
     <div class="scrollmenu">
-      <a href="https://zmr1432n.github.io/GSGRAMEENA/">
+      <a href="https://amigofx.com:1936/gsgrameena/gsgrameena/playlist.m3u8">
         <div class="cen">
           <img class="nt" src="https://i.ibb.co/r6SYJnr/20230828-152838.jpg">
           <h5 class="centered"></h5>
         </div>
       
-            <a href="NCN PRIME.html">
+            <a href="http://stream.sundaylive.co.in:8088/ncnncn/ncnncn.m3u8">
               <div class="cen ag">
                 <img class="nt" src="https://i.ibb.co/bgy6Nr8/NCN-prime.jpg">
                 <h5 class="centered"></h5>
               </div>
             </a>
         
-        <a href="https://zmr1432n.github.io/NCNTv/">
+        <a href="http://stream.sundaylive.co.in:8088/ncnhd/ncnhd.m3u8">
               <div class="cen ag">
                 <img class="nt" src="https://i.ibb.co/f0tYDSb/NCN-TV.png">
                 <h5 class="centered"></h5>
               </div>
             </a>
         
-        <a href="go:CS">
+        <a href="http://telugusolutions.com:8088/aplocaltv/aplocaltv.m3u8">
               <div class="cen ag">
                 <img class="nt" src="https://i.ibb.co/WFZMtfc/AP-LOCAL-TV.jpg">
                 <h5 class="centered"></h5>
               </div>
             </a>
         
-        <a href="go:CS">
+        <a href="http://stream.sundaylive.co.in:8088/tcndigital/tcndigital.m3u8">
               <div class="cen ag">
                 <img class="nt" src="https://i.ibb.co/16nrwmK/TCN-info.png">
                 <h5 class="centered"></h5>
               </div>
             </a>
-        <a href="go:CS">
+        <a href="http://stream.sundaylive.co.in:8088/srichannel/srichannel.m3u8">
               <div class="cen ag">
                 <img class="nt" src="https://i.ibb.co/FbRRHDX/Sri-TV.png">
                 <h5 class="centered"></h5>
               </div>
             </a>
-        <a href="https://zmr1432n.github.io/Ch.Sity-Telangana/">
+        <a href="http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8">
               <div class="cen ag">
                 <img class="nt" src="https://i.ibb.co/FnrWQXP/Sity-Telangana.png">
                 <h5 class="centered"></h5>
@@ -208,35 +208,35 @@
       </a>
     </div>
     <div class="scrollmenu">
-      <a href="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8">
+      <a href="http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8">
         <div class="cen">
           <img class="nt" src="https://i.ibb.co/dMbNCXk/9xm-music.png">
         </div>
-        <a href="go:ltv">
+        <a href="https://livectv.phando.com/8059/playlist.m3u8">
           <div class="cen ag">
             <img class="nt" src="https://i.ibb.co/ZfWyc4R/Music-INDIA.png">
           </div>
-          <a href="go:Sah">
+          <a href="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8">
             <div class="cen">
               <img class="nt" src="https://i.ibb.co/gmnwD1T/Masti-music.png">
             </div>
-            <a href="go:YE">
+            <a href="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8">
               <div class="cen">
                 <img class="nt" src="https://i.ibb.co/5Wdx2GB/20230829-003157.png">
               </div>
-              <a href="go:YE">
+              <a href="http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8?token=test">
               <div class="cen">
                 <img class="nt" src="https://i.ibb.co/GP1Fdfg/MTV-HD.png">
               </div>
-                <a href="go:YE">
+                <a href="http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test">
               <div class="cen">
                 <img class="nt" src="https://i.ibb.co/bjtS3bH/MTV-Beats-HD.png">
               </div>
-             <a href="go:YE">
+             <a href="https://livectv.phando.com/8005/playlist.m3u8">
               <div class="cen">
                 <img class="nt" src="https://i.ibb.co/VN2K6Ss/B4-U-Music.png">
               </div>
-             <a href="go:YE">
+             <a href="http://41.205.93.154/VH1/index.m3u8">
               <div class="cen">
                 <img class="nt" src="https://i.ibb.co/17nVwsG/VH1.png">
               </div>
