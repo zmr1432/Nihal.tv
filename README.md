@@ -152,7 +152,7 @@
           <h5 class="centered"></h5>
         </div>
       
-            <a href="go:CS">
+            <a href="NCN PRIME.html">
               <div class="cen ag">
                 <img class="nt" src="https://i.postimg.cc/zBmRZps9/20210918-002838-copy.png">
                 <h5 class="centered"></h5>
