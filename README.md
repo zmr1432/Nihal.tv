@@ -161,7 +161,7 @@
           <h5 class="centered"></h5>
         </div>
       
-            <a href="https://zmr1432n.github.io/NCN-prime/">
+            <a href="NCN PRIME.html">
               <div class="cen ag">
                 <img class="nt" src="https://i.ibb.co/bgy6Nr8/NCN-prime.jpg">
                 <h5 class="centered"></h5>
