@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <title>Ansari TV 03071296055</title>
+    <title>jameer</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
@@ -117,7 +116,7 @@
 		 
         <div class="item ">
           <a class="item" href="go:jftv">
-            <img src="https://blogger.googleusercontent.com/g/b/R29vZ2xl/AVvXsEgvKEH9NEV098d6CMYwoUpoee8W0x4lt9pDLcvJoRd25fa9vUXXdMesX3LBIHy4E_nRNv9cc3rO3tbtsjBMQRv2kyqj_fz1F9gyByZJs8YEPC582s8-BUVoXv2Cuhd0-mIPEjzap5cbKp6_ws_dC2fLGm4fvLDjnYphhE7eKYmpISJQc7VeDdhO70rlqD5S/s16000/LIVE%20(1).gif">
+            <img src="https://i.ibb.co/88xR83j/20230828-151625.png">
             <div class="carousel-caption cap">
               <h3></h3>
             </div>
@@ -195,41 +194,49 @@
                 <h5 class="centered"></h5>
               </div>
             </a>
-        <a href="go:CS">
+        <a href="https://zmr1432n.github.io/Ch.Sity-Telangana/">
               <div class="cen ag">
                 <img class="nt" src="https://i.ibb.co/FnrWQXP/Sity-Telangana.png">
                 <h5 class="centered"></h5>
               </div>
             </a>
     </div>
-    </div>
 	   <div class="nta">
       <a href="go:Turkishd">
-        <h4 class="alignleft">LIVE TV</h4>
+        <h4 class="alignleft">HIND MUSIC</h4>
         <h4 class="alignright">See All</h4>
       </a>
     </div>
     <div class="scrollmenu">
-      <a href="go:sport">
+      <a href="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8">
         <div class="cen">
-          <img class="nt" src="https://i.img.cc/SKntGHSk/ok-4.png">
+          <img class="nt" src="https://i.ibb.co/dMbNCXk/9xm-music.png">
         </div>
         <a href="go:ltv">
           <div class="cen ag">
-            <img class="nt" src="https:img.cc/rmWnBWRH/ok-3.png">
+            <img class="nt" src="https://i.ibb.co/ZfWyc4R/Music-INDIA.png">
           </div>
           <a href="go:Sah">
             <div class="cen">
-              <img class="nt" src="https:timg.cc/rpRQ4Wjp/ok-2.png">
+              <img class="nt" src="https://i.ibb.co/gmnwD1T/Masti-music.png">
             </div>
             <a href="go:YE">
               <div class="cen">
-                <img class="nt" src="httpg.cc/q7KxqrBh/ok-1.png">
+                <img class="nt" src="https://i.ibb.co/5Wdx2GB/20230829-003157.png">
               </div>
-             
-    </div>
-
-<br>
-
-  </body>
-			  </html>
+              <a href="go:YE">
+              <div class="cen">
+                <img class="nt" src="https://i.ibb.co/GP1Fdfg/MTV-HD.png">
+              </div>
+                <a href="go:YE">
+              <div class="cen">
+                <img class="nt" src="https://i.ibb.co/bjtS3bH/MTV-Beats-HD.png">
+              </div>
+             <a href="go:YE">
+              <div class="cen">
+                <img class="nt" src="https://i.ibb.co/VN2K6Ss/B4-U-Music.png">
+              </div>
+             <a href="go:YE">
+              <div class="cen">
+                <img class="nt" src="https://i.ibb.co/17nVwsG/VH1.png">
+              </div>
